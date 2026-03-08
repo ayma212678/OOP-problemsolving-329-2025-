@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Lab Manual 2/">
+    <Project Path="taask3/task3.csproj" Id="f4b2e860-5186-40ea-9e4d-614b665af016" />
+    <Project Path="taask5/task5.csproj" Id="4887060a-fcf8-430b-b380-5b4e8cdb696a" />
+    <Project Path="task1/task1.csproj" Id="8e0d214f-c3a4-4981-8f16-b9834e3e8db3" />
+    <Project Path="task2/task2.csproj" Id="781fae61-61c4-4148-bd32-30835636ab6e" />
+    <Project Path="task4/task4.csproj" Id="8a2b2aab-fd2a-4701-85de-8a10ea1c410f" />
+    <Project Path="task6/task6.csproj" Id="bdcff7bf-bae9-470f-b05f-354d6ecd98c1" />
+  </Folder>
+  <Folder Name="/Lab Manual 3/">
+    <Project Path="challenge 2/challenge2.csproj" Id="74477619-8920-44ad-83e0-63e8018ec16f" />
+    <Project Path="challenge1/challenge1.csproj" Id="b3052495-cac6-498d-8336-0b1da084fe52" />
+  </Folder>
+  <Project Path="CafeManagementSystem/OOP.csproj" />
+</Solution>
