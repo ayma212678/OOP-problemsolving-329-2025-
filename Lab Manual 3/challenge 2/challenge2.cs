@@ -28,7 +28,7 @@ class Product
         StockQty = p.StockQty; MinStockQty = p.MinStockQty;
     }
 
-    // Tax: Groceries=10%, Fresh Fruit=5%, Other=15%
+    // Tax:Groceries=10%,Fresh Fruit=5%,Other=15%, (Given in Manual questions)
     public float GetSalesTax()
     {
         if (Category == "Groceries") return Price * 0.10f;

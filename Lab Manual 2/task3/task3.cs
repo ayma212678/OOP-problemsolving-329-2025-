@@ -6,7 +6,7 @@ class ATM
     private float Balance;
     private List<string> TransactionHistory;
 
-    // Constructor initializes balance and empty history
+    //--constructor initiialization
     public ATM(float initialBalance)
     {
         Balance = initialBalance;
@@ -52,7 +52,7 @@ class task3
         ATM myAccount = new ATM(10000);
         myAccount.Deposit(5000);
         myAccount.Withdraw(3000);
-        myAccount.Withdraw(20000); // error: insufficient funds
+        myAccount.Withdraw(20000); 
         myAccount.CheckBalance();
         myAccount.ShowHistory();
         Console.ReadKey();
