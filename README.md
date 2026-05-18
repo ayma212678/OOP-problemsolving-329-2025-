@@ -1,29 +1,34 @@
-# Object-Oriented Programming (OOP) — Solved Lab Manuals (1-9)
+# Object-Oriented Programming (OOP) — Solved Lab Manuals 
 
-[cite_start]This folder contains my structured solutions for Labs 1 through 9 of the Object-Oriented Programming course[cite: 1, 108, 189]. [cite_start]The assignments are completed in **C#** using **Visual Studio** and demonstrate step-by-step progress from introductory constructs to complex software architecture[cite: 1, 11, 255].
+This folder contains my structured solutions for the labs completed so far in my Object-Oriented Programming course. The assignments are built using **C#** in **Visual Studio** and demonstrate step-by-step progress from introductory coding constructs to multi-layer software architecture.
 
-## 📚 Core Academic Milestones
+## Academic Milestones
 
 * **Labs 1 & 2: Object Creation & Class Behaviors**
-  * [cite_start]Establishing class blueprints, attributes, access specifiers, and custom methods[cite: 255, 258, 259].
-  * [cite_start]Handling heap memory allocation using instance variables and tracking simple states[cite: 255, 263].
+  * Establishing class blueprints, attributes, access specifiers, and custom methods.
+  * Handling heap memory allocation using instance variables and tracking simple program states.
+
 * **Lab 3: Constructors & Iterators**
-  * [cite_start]Implementation of overloaded constructors (Default, Parameterized, and Copy Constructors)[cite: 193, 194, 252].
-  * [cite_start]Utilizing copy constructors to manually replicate data blocks onto new locations in the heap[cite: 196, 201].
-  * [cite_start]Iterating through complex object collections using streamlined `foreach` structures[cite: 207, 213].
+  * Implementing overloaded constructors (including Default, Parameterized, and Copy Constructors).
+  * Utilizing copy constructors to manually replicate data blocks into new locations in the heap.
+  * Iterating through object collections using streamlined `foreach` structures.
+
 * **Lab 4: Multiple Interacting Classes**
-  * [cite_start]Moving from a single class model to collaborative schemas where objects communicate with each other[cite: 1, 3].
-  * [cite_start]Constructing real-world relationships such as standard associations (e.g., matching a `Student` object with its respective `Degree` entity)[cite: 7, 12].
+  * Moving from a single-class model to collaborative structures where multiple objects communicate with one another.
+  * Constructing real-world relationships and associations (such as matching a `Student` object with its respective `Degree` program).
+
 * **Lab 5: Layered Software Architecture (BL/DL/UI)**
-  * [cite_start]Restructuring larger applications by separating concerns into dedicated architectural layers[cite: 110, 113]:
-    * [cite_start]**Business Logic Layer (BL):** Houses structural validation rules and system algorithms[cite: 113, 121].
-    * [cite_start]**Data Layer (DL):** Manages collections via static arrays/lists entirely free from input/output interference[cite: 113, 126, 129].
-    * [cite_start]**User Interface Layer (UI):** Consolidates all console menu processing and user interactions[cite: 113, 130, 131].
-  * [cite_start]Practiced modeling this separation using visual class diagram designers inside Visual Studio[cite: 136, 138].
+  * Restructuring larger applications by separating code concerns into dedicated architectural layers:
+    * **Business Logic Layer (BL):** Houses core validation rules and system algorithms.
+    * **Data Layer (DL):** Manages collections via static arrays or lists, entirely independent of input/output logic.
+    * **User Interface Layer (UI):** Consolidates all console menu processing and direct user interactions.
+  * Practiced modeling this separation using the visual class diagram tools inside Visual Studio.
+
 * **Labs 6 - 9: Advanced OOP Concepts & Systems**
   * Applying layered abstractions, data validation, object persistence, and extended modular principles across comprehensive console-based management case studies.
 
-## 💻 Running the Solutions
+## Running the Solutions
+
 1. Ensure **Microsoft Visual Studio** is installed with the .NET workload.
-2. Open any individual lab configuration folder.
-3. [cite_start]Launch the solution file (`.sln`) and press **F5** to run the program via the interactive debug console[cite: 12].
+2. Open any individual lab folder.
+3. Launch the solution file (`.sln`) and press **F5** to compile and run the program via the interactive debug console.
